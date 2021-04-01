@@ -1,0 +1,9 @@
+Su nacin da organizujemo informacije i datu u folder, ili kutiju
+Mogu da se koriste za razne stvari
+npr u frizider ide hrana, u ormar odeca
+Kontejner oko date, kojoj pristupamo menjamo itd;
+data unutar je u memoriji
+
+Bitno je da znamo kada koju da koristimo (listu ili dict itd)
+Dictionary - nije sortiran, drze vise informacija nego liste
+Lista - ima samo indekse i vrednost, npr lista ljudi

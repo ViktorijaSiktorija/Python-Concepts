@@ -1,0 +1,25 @@
+Nema let,var itd ispred
+malim slovom 
+sa _ se pisu privatne promenljive
+CONSTANTE su u caps
+ima posebne koje se pisu sa __ (dundrin)
+
+**Moze i ovako**
+a,b,c = 1,2,3
+print(a) / bice 1
+print(b) / bice 2
+
+iq = 100
+user_age = iq / 5
+Izraz/expression:
+deo koda koji iznosi vrednost
+= iq / 5
+
+Statement:
+cela linija koda koja izvrsava neku funkciju
+user_age = iq / 5
+iq = 100
+
+Augmented assignment operator:
+vrednost = 2
+vrednost += 2 ili -=, *=

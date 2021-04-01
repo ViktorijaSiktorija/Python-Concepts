@@ -1,0 +1,2 @@
+poseban tip date
+nema vrednost, kao Null
