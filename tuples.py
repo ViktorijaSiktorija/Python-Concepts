@@ -17,7 +17,7 @@ print(type(mytuple1))
 
 # tupl moze da se stvori preko tupl funkcije, da se stvori od iteratora 
 # npr liste
-mytuple = tuple(["Vika", 29, "Takovska"])
+mytuple = tuple(["Vika", 29, "Ulica"])
 print(mytuple)
 
 # pristup elementima preko indeksa
